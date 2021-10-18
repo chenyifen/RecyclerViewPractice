@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewBasicUse1</string>
+    <string name="element_text">元素内容</string>
+</resources>
